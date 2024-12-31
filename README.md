@@ -12,9 +12,9 @@ Welcome to my profile! Explore my projects, skills, and professional journey.
 - **Areas of Expertise:** Business Analytics, Data Visualization, Financial Analysis  
 
 ### 🛠️ Projects
-- **Telecom Industry KPI Analysis:** Comparison of pre- and post-5G KPIs for AtliQo. [View Project](https://github.com/Dipesh454/Telecom_industry_Python)
-- **Excel Sales Analytics:** [View Project](https://github.com/Dipesh454/Excel_Sales_Analytics)
-  
+- **Telecom Industry KPI Analysis:** Comparison of pre- and post-5G KPIs for AtliQo. [Project](https://github.com/Dipesh454/Telecom_industry_Python)
+- **Excel Sales Analytics:** [Project](https://github.com/Dipesh454/Excel_Sales_Analytics)
+- **Good Cabs:** [Project] (https://github.com/Dipesh454/Good-Cabs)
 ### 📫 Connect with Me
 - 📧 Email: [dsshah1999@gmail.com](mailto:dsshah1999@gmail.com)
 - 📱 Phone: +1(647) 407 9662
