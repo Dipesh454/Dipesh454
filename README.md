@@ -1,7 +1,6 @@
-# Dipeshkumar-Shah
-Welcome to my profile! Explore my projects, skills, and professional journey.
-# 👋 Hi, I’m Dipeshkumar Shah  
 
+# 👋 Hi, I’m Dipeshkumar Shah  
+Welcome to my profile! Explore my projects, skills, and professional journey.
 ### 🌟 About Me
 - 💼 Business Insights Analyst | Aspiring Data Analyst | Table Games Dealer at Casino.
 - 🎓 Graduated with B.E in IT, Post Grad in AI & Data Science
