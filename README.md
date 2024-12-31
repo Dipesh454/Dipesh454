@@ -17,7 +17,7 @@ Welcome to my profile! Explore my projects, skills, and professional journey.
 ### 📫 Connect with Me
 - 📧 Email: [dsshah1999@gmail.com](mailto:dsshah1999@gmail.com)
 - 📱 Phone: +1(647) 407 9662
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/shah-dipesh/)) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shah-dipesh/)
 
 ---
 ✨ "Turning data into decisions and insights into impact."
