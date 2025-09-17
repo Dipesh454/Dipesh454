@@ -4,7 +4,7 @@ Welcome to my profile! Explore my projects, skills, and professional journey.
 ### 🌟 About Me
 - 💼 Data Analyst | Fruad Analyst | Operations Analyst
 - 🎓 Graduated with B.E in IT, Post Grad in AI & Data Science
-- 📊 Passionate about data analysis, business intelligence, and storytelling with data.
+- 📊 Passionate about data analysis, business intelligence, and fraud investigating.
 
 ### 💻 Skills
 - **Programming:** Python, SQL  
