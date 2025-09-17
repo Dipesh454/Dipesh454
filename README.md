@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Dipeshkumar Shah  
 Welcome to my profile! Explore my projects, skills, and professional journey.
 ### 🌟 About Me
-- 💼 Data Analyst | Business Data Analyst
+- 💼 Data Analyst | Fruad Analyst | Operations Analyst
 - 🎓 Graduated with B.E in IT, Post Grad in AI & Data Science
 - 📊 Passionate about data analysis, business intelligence, and storytelling with data.
 
